@@ -1,0 +1,3 @@
+1. Open Server - https://webformyself.com/open-server-ustanovka-i-rabota-s-serverom/
+
+2. XAMPP - https://webformyself.com/veb-server-xampp-ustanovka-i-nastrojka/
